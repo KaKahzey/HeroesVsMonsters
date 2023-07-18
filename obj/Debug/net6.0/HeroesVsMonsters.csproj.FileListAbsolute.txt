@@ -1,0 +1,45 @@
+C:\Users\Julien\source\repos\HeroesVsMonsters\bin\Debug\net6.0\HeroesVsMonsters.exe
+C:\Users\Julien\source\repos\HeroesVsMonsters\bin\Debug\net6.0\HeroesVsMonsters.deps.json
+C:\Users\Julien\source\repos\HeroesVsMonsters\bin\Debug\net6.0\HeroesVsMonsters.runtimeconfig.json
+C:\Users\Julien\source\repos\HeroesVsMonsters\bin\Debug\net6.0\HeroesVsMonsters.dll
+C:\Users\Julien\source\repos\HeroesVsMonsters\bin\Debug\net6.0\HeroesVsMonsters.pdb
+C:\Users\Julien\source\repos\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.csproj.AssemblyReference.cache
+C:\Users\Julien\source\repos\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julien\source\repos\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.AssemblyInfoInputs.cache
+C:\Users\Julien\source\repos\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.AssemblyInfo.cs
+C:\Users\Julien\source\repos\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.csproj.CoreCompileInputs.cache
+C:\Users\Julien\source\repos\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.dll
+C:\Users\Julien\source\repos\HeroesVsMonsters\obj\Debug\net6.0\refint\HeroesVsMonsters.dll
+C:\Users\Julien\source\repos\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.pdb
+C:\Users\Julien\source\repos\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.genruntimeconfig.cache
+C:\Users\Julien\source\repos\HeroesVsMonsters\obj\Debug\net6.0\ref\HeroesVsMonsters.dll
+C:\Users\Julien\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\bin\Debug\net6.0\HeroesVsMonsters.exe
+C:\Users\Julien\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\bin\Debug\net6.0\HeroesVsMonsters.deps.json
+C:\Users\Julien\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\bin\Debug\net6.0\HeroesVsMonsters.runtimeconfig.json
+C:\Users\Julien\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\bin\Debug\net6.0\HeroesVsMonsters.dll
+C:\Users\Julien\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\bin\Debug\net6.0\HeroesVsMonsters.pdb
+C:\Users\Julien\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.csproj.AssemblyReference.cache
+C:\Users\Julien\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julien\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.AssemblyInfoInputs.cache
+C:\Users\Julien\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.AssemblyInfo.cs
+C:\Users\Julien\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.csproj.CoreCompileInputs.cache
+C:\Users\Julien\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.dll
+C:\Users\Julien\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\obj\Debug\net6.0\refint\HeroesVsMonsters.dll
+C:\Users\Julien\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.pdb
+C:\Users\Julien\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.genruntimeconfig.cache
+C:\Users\Julien\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\obj\Debug\net6.0\ref\HeroesVsMonsters.dll
+C:\Users\Student\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\bin\Debug\net6.0\HeroesVsMonsters.exe
+C:\Users\Student\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\bin\Debug\net6.0\HeroesVsMonsters.deps.json
+C:\Users\Student\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\bin\Debug\net6.0\HeroesVsMonsters.runtimeconfig.json
+C:\Users\Student\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\bin\Debug\net6.0\HeroesVsMonsters.dll
+C:\Users\Student\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\bin\Debug\net6.0\HeroesVsMonsters.pdb
+C:\Users\Student\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.csproj.AssemblyReference.cache
+C:\Users\Student\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.AssemblyInfo.cs
+C:\Users\Student\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.dll
+C:\Users\Student\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\obj\Debug\net6.0\refint\HeroesVsMonsters.dll
+C:\Users\Student\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.pdb
+C:\Users\Student\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\obj\Debug\net6.0\HeroesVsMonsters.genruntimeconfig.cache
+C:\Users\Student\OneDrive - Technobel\C#\debut\OO\HeroesVsMonsters\obj\Debug\net6.0\ref\HeroesVsMonsters.dll
